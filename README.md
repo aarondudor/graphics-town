@@ -3,8 +3,7 @@
 This set of web pages forms a "workbook" assignment for 
 CS559, Computer Graphics at the University of Wisconsin for Spring 2021.
 
-Students should run a local web server and start with the `index.html` page.
-The html files may not work as "files" without a local server.
+Working demo of Graphics Town can be found at https://aarondudor.github.io/graphics_town/for_students/final-grtown.html
 
 Information about the class is available on the course web:
 https://graphics.cs.wisc.edu/Courses/559-sp2021/
