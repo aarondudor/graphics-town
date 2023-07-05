@@ -1,0 +1,13 @@
+Three different behaviors that you made:
+1. Radar-1* spinning on rotor
+2. Helicopter-1* flying in the sky
+3. CementMixer-1* rotating cement cab around its axis
+
+One behavior that is not simple:
+Not simple: Car-1* and Truck-1* going around the streets, stopping at stop signs before turning onto the next street.
+
+Animated Articulated Figure:
+Articulated: Crane-1* moves arm to a certain point and then moves the wire forwards or backwards, and then moves back to the original point.
+
+Other Behaviors that you made: (backup in case something above doesn't count)
+- Excavator-1* moves cab and arm to a point and scoops "dirt" and then dumps it at another point.

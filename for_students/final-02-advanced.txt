@@ -1,0 +1,7 @@
+Advanced Thing: Complex Behavior (#2)
+Example: LookAt: Excavator-1*
+Excavator has a behavior with a state machine where it moves cab to a certain point, then moves the forearm and bucket to scoop "dirt" from the ground. Then it moves the cab to another location and moves the forearm and bucket to dump out the "dirt". 
+
+Advanced Thing: Complex Behavior (#2)
+Example: LookAt: Car-1* and Truck-1*
+Car and Truck have a behavior with a state machine where they move around the streets and stop at stop signs before turning onto the next road.

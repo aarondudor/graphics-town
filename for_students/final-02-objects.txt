@@ -1,0 +1,29 @@
+(Required) Two kinds of objects created for this assignment:
+1. StopSign-1* - a textured sign made of basic geometry
+2. LargeGravestone-1* - a cross gravestone made of basic geometry
+
+(Required) Five other kinds of objects that you created (possibly in previous assignments):
+3. Car-1* - a sports car made of buffer geometry from WB8
+4. Truck-1* - a pickup truck made of buffer geometry from WB8
+5. Radar-1* - a radar made of basic geometry from WB7
+6. ModernHouse-1* - a textured house made of buffer geometry from WB8
+7. Helicopter-1* - a helicopter made of basic geometry from WB7
+
+(Optional) Backup Objects (more objects that you created, in case the ones above don't count):
+- Townhouse-1 - a textured house made of buffer geometry from WB8
+- CementMixer-1* - a cement mixer made of basic geometry from WB7
+- Tree-1* - a pine tree made from basic geometry from WB8
+
+At least on of each type of object:
+Building/structure: ModernHouse-1* - (described above)
+Vehicle: Car-1* - (described above)
+Natural Element: Tree-1* - (described above) 
+
+Object loaded from a model file:
+Model: Playground-1* - loaded from an FBX file from the web, attribution below
+
+An object with a shader that you wrote:
+ShaderObj: Tree-1* - (described above) with an added texture shader to replace the tree material
+
+Other Objects that you would like to note:
+House-1 - a textured house made of buffer geometry from WB8

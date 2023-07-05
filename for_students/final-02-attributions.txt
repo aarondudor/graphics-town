@@ -1,0 +1,17 @@
+List all attributions here, this include "self-attributions":
+
+Playground FBX model was downloaded from https://sketchfab.com/3d-models/playground-7d547122a8eb44f0a615492f454c1cf0 by theJamieAnne
+
+Skybox texture was downloaded from https://polyhaven.com/a/lilienstein
+
+Crane and Excavator made by course staff from 07-09-constructionobjects.js
+
+CementMixer made by me from 07-09-constructionobjects.js
+
+Swing and Roundabout made by course staff from 07-08-parkobjects.js
+
+Car and Truck made by me from 08-07-car.js
+
+House, Townhouse, Modernhouse and Tree made by me from 08-06-buildings.js
+
+Helicopter and Radar made by me from 07-06-01.js
