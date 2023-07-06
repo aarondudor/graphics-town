@@ -313,8 +313,8 @@ export class Tree extends GrObject {
     let image = new T.TextureLoader().load("../textures/leaves.jpg");
 
     let shaderMat = shaderMaterial(
-      "/shaders/leafShader.vs",
-      "/shaders/leafShader.fs",
+      "../shaders/leafShader.vs",
+      "../shaders/leafShader.fs",
       {
         side: T.DoubleSide,
         uniforms: {
