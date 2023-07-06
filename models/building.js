@@ -305,12 +305,12 @@ export class ModernHouse extends GrObject {
 export class Tree extends GrObject {
   constructor(params = {}) {
     let trunkGeo = new T.CylinderGeometry(0.5, 0.75, 1.5);
-    let trunkMat = new T.MeshStandardMaterial({ color: "#023020" });
+    let trunkMat = new T.MeshStandardMaterial({ color: "#1f1215" });
     let trunk = new T.Mesh(trunkGeo, trunkMat);
 
     let leavesGeo = new T.ConeGeometry(2.5, 6, 32, 32);
 
-    let image = new T.TextureLoader().load("/textures/leaves.jpg");
+    let image = new T.TextureLoader().load("../textures/leaves.jpg");
 
     let shaderMat = shaderMaterial(
       "/shaders/leafShader.vs",
